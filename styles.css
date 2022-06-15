@@ -1,0 +1,6 @@
+.bi-people-fill::before {
+    content: "\f4cf";
+    background: yellowgreen;
+    padding: 10%;
+    border-radius: 50%;
+}
