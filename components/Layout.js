@@ -32,8 +32,8 @@ const Layout = ({ children}) => {
                     </section>
                     <Cards/>
                     <hr />
-                    <main className="row">
-                        <div className="col-12">
+                    <main className="">
+                        <div className="">
                             {children}
                         </div>
                     </main>
